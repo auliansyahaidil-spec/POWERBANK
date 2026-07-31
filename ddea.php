@@ -78,7 +78,7 @@ echo "<tr class='baris2'>
 
             <!--kiri: logo + nama -->
             <div class='left-text' style='display:flex; align-items:center; gap:10px;'>
-            <img src='log' alt='Logo' witdh='40' height='40'>
+            <img src='log.png' alt='Logo' witdh='40' height='40'>
             <span>POWERBANK</span>
             </div>
 
